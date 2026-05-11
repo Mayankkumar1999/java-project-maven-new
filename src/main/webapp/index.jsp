@@ -154,7 +154,7 @@
             <div class="card">
                 <img src="./assets/img/poster 8.png" class="card-img" alt="">
                 <div class="card-body">
-                    <h2 class="name">Soul</h2>
+                    <h2 class="name">Team Soul</h2>
                     <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
@@ -470,13 +470,13 @@
                 <div class="card-body">
                     <h2 class="name">Brave</h2>
                     <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
-                    <button class="watchlist-btn">add to watchlist</button>
+                    <button class="watchlist-btn">Add To Watchlist</button>  
                 </div>
             </div>
             <div class="card">
                 <img src="./assets/img/poster 18.webp" class="card-img" alt="">
                 <div class="card-body">
-                    <h2 class="name">Dil Bechara</h2>
+                    <h2 class="name">Name tha ek</h2>
                     <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
